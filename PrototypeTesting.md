@@ -1,4 +1,4 @@
-# Prototype Testing — North Star
+ # Prototype Testing — North Star
 
 ## Methodology
 - 5 participants (Tier-1 + Tier-2 early professionals)
@@ -18,3 +18,4 @@
 - 100% willing to use after iteration  
 
 📌 *Reference: Google Form user test data (internal).*
+
