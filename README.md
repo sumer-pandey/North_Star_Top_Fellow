@@ -1,4 +1,4 @@
-# North Star — Outcome-Driven Learning System
+# North Star - Outcome-Driven Learning System
 
 ## 🚀 Overview
 North Star solves the <10% MOOC completion crisis by combining:
@@ -6,7 +6,7 @@ North Star solves the <10% MOOC completion crisis by combining:
 - **Habit-forming starter plans + focus/streaks**
 - **Certificates with recruiter-visible proof (projects + ROI tag + consistency score)**
 
-## 🏅 Recognition — Top Fellow, NextLeap PM Fellowship
+## 🏅 Recognition - Top Fellow, NextLeap PM Fellowship
 
 This deck earned me the **Top Fellow** award in the **NextLeap PM Fellowship** — a selective 16-week program for aspiring product leaders.
 
@@ -70,3 +70,4 @@ North Star ensures **decision → consistency → ROI → proof**:
 - [WEF India Story](https://www.weforum.org/stories/2025/04/the-future-of-jobs-in-india-employers-seek-to-boost-tech-talent-to-drive-ai-and-digital-technology-growth/)  
 - [IMARC India E-Learning Market Report](https://www.imarcgroup.com/india-e-learning-market-report)  
 - [IBEF India Education Sector](https://www.ibef.org/industry/education-sector-india)  
+
