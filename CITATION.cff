@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "North Star — Outcome-Driven Learning Product"
+abstract: >
+  Outcome-driven learning system addressing the <10% MOOC completion crisis
+  with ROI-first roadmaps, habit loops, recruiter-visible proof, and DPDP-aligned
+  architecture. Recognized as the Top Fellow project in the NextLeap PM Fellowship.
+authors:
+  - family-names: "Pandey"
+    given-names: "Sumer"
+    affiliation: "Independent"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # optional, remove if not available
+version: "1.0.0"
+date-released: "2025-09-12"
+repository-code: "https://github.com/[your-username]/northstar"
+license: "MIT"
+keywords:
+  - product management
+  - edtech
+  - outcome-driven learning
+  - NextLeap
+  - ROI-first roadmaps
